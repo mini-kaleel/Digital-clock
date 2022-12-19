@@ -7,4 +7,4 @@
   * JavaScript
   
 # Live Demo
-  https://symphonious-salamander-fbe3a3.netlify.app
+  unique-rahman-countdown-timer.netlify.app
