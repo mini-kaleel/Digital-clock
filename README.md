@@ -7,4 +7,4 @@
   * JavaScript
   
 # Live Demo
-  https://unique-rahman-countdown-timer.netlify.app/
+   https://unique-rahman-digital-clock.netlify.app/
